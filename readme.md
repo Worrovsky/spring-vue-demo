@@ -1,5 +1,7 @@
 # Spring + Vue Demo
 
+![localhost](screenshots/localhost.png)
+
 ## Run
 
 Build frontend:  
